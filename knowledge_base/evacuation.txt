@@ -1,0 +1,19 @@
+# Disaster Evacuation Protocol & Shelter Navigation
+
+## Overview
+Evacuation orders are issued by local emergency authorities to safeguard lives against impending hazards such as severe flooding, wildfire encroachment, hazardous chemical spills, or approaching cyclones.
+
+## Step-by-Step Evacuation Plan
+1. Know Official Evacuation Zones: Learn your district's designated evacuation zones and pre-determined emergency assembly routes.
+2. Maintain Vehicle Readiness: Keep vehicle gas tanks at least half-full at all times during storm warning seasons. Keep emergency tools and Go-Bags in the trunk.
+3. Secure the Property Before Departing:
+   - Turn off main utilities (electricity, water, gas) if instructed.
+   - Lock all exterior windows and doors.
+   - Unplug sensitive electronics.
+4. Follow Official Routes: Stick strictly to designated evacuation highways. Do NOT take shortcuts through unverified backroads, which may be blocked or inundated by floodwaters.
+5. Family Communication Plan: Designate an out-of-state or out-of-city contact person whom all family members can notify via SMS once safe.
+
+## Shelter Etiquette & Safety
+- Upon arrival at a designated emergency shelter or relief camp, register immediately with administration.
+- Respect medical triage, food distribution guidelines, and sanitation rules.
+- Notify shelter medical personnel of any chronic health conditions, allergies, or special care requirements.

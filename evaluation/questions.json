@@ -1,0 +1,42 @@
+[
+  {
+    "id": "eval_01",
+    "question": "What should I do during a flood?",
+    "disaster_type": "flood"
+  },
+  {
+    "id": "eval_02",
+    "question": "What should I keep in an emergency kit?",
+    "disaster_type": "emergency_kit"
+  },
+  {
+    "id": "eval_03",
+    "question": "What should I do during an earthquake?",
+    "disaster_type": "earthquake"
+  },
+  {
+    "id": "eval_04",
+    "question": "How should I evacuate during a fire?",
+    "disaster_type": "fire"
+  },
+  {
+    "id": "eval_05",
+    "question": "How do I prepare for a cyclone?",
+    "disaster_type": "cyclone"
+  },
+  {
+    "id": "eval_06",
+    "question": "What should I do if flood water is entering my house?",
+    "disaster_type": "flood"
+  },
+  {
+    "id": "eval_07",
+    "question": "What emergency supplies should I carry?",
+    "disaster_type": "emergency_kit"
+  },
+  {
+    "id": "eval_08",
+    "question": "How to perform CPR during an emergency?",
+    "disaster_type": "first_aid"
+  }
+]

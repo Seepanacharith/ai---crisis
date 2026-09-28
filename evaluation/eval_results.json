@@ -1,0 +1,7 @@
+{
+  "retrieval_recall_pct": 68.62,
+  "context_relevance_pct": 36.84,
+  "answer_relevance_pct": 33.92,
+  "faithfulness_pct": 78.84,
+  "average_latency_ms": 208.08
+}
